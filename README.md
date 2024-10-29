@@ -1,5 +1,7 @@
 Bu bir sunucu test yazılımıdır.
 Farklı türlerde paketleri göndermek, yanıt almak veya APİ test etmek amacıyla kullanılabilir.
+Sorumluluk-reddi:(Bu yazılımı kullanırken tüm sorumluluk kullanan kişidedir.
+Herhangibir illegal kullanımda sorumluluk kabul etmiyorum)
 
 ![resim](https://github.com/user-attachments/assets/95b2522b-8a2c-49eb-bf77-f0240cadb29d)
 
